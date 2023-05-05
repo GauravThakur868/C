@@ -14,3 +14,4 @@ int main() {
     }
     printf("The reversed string is: %s\n", str);
     return 0;
+}

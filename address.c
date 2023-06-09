@@ -7,4 +7,5 @@ int main(){
 	printf("address %d\n",&a);
 	printf("value %d\n",a);
 	printf("address %d",a1);
+	return 0;
 }

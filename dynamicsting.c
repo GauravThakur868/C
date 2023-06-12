@@ -5,5 +5,5 @@ int main(){
 	scanf("%s",c);
 	c = (char*)realloc(c,strlen(c));
 	printf("%s",c);
-	
+	return 0;
 }

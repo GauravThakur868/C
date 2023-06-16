@@ -5,4 +5,5 @@ int main(){
 	char st1[10];
 strcpy(st1,st);
 printf("%s",st1);
+return 0;
 }

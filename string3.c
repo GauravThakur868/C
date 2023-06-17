@@ -9,4 +9,5 @@ printf("%d\n",strlen(st1));
 strcat(st1,st);
 printf("%s\n",st1);
 printf("%d",strcmp(st1,st,2));
+return 0;
 }

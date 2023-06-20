@@ -14,4 +14,5 @@ int main(){
 	scanf("%d",&p.age);
 	scanf("%d",&p.s.regno);
 	printf("%s %d %d",p.name,p.age,p.s.regno);
+	return 0;
 }

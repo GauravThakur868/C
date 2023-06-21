@@ -15,4 +15,5 @@ int main(){
 	scanf("%d",&ep.empid);
 	scanf("%f",&ep.salary);
 	display(ep);
+	return 0;
 }

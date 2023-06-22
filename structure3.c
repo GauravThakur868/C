@@ -17,4 +17,5 @@ int main(){
 	struct student stud;
 	scanf("%f",&stud.marks);
 	cal(stud);
+	return 0;
 }

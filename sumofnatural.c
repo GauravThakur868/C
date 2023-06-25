@@ -3,6 +3,7 @@ int sum();
 int main(){
 	int a =sum();
 	printf("%d",a);
+	return 0;
 }
 int sum(){
 	int b,c=0,i;

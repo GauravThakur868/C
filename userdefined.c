@@ -4,6 +4,7 @@ int second();
 int main(){
 	char c = second();
 	printf("%c",c);
+	return 0;
 }
 int first(){
 	int a;

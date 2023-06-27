@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main(){
+int main(){
 	int a;
 	int b =1;
 	scanf("%d",&a);
@@ -7,4 +7,5 @@ void main(){
 		printf("%d X %d = %d\n",a,b,a*b);
 		b = b+1;
 	}
+	return 0;
 }

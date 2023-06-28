@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main(){
+int main(){
 	int x,i;
 	printf("size of array: ");
 	scanf("%d",&x);
@@ -18,4 +18,5 @@ void main(){
 	for(i=0;i<x;i++){
 		printf("%d\n",c[i]);
 	}
+	return 0;
 }

@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main(){
+int main(){
 	int n,m;
 	printf("enter the no of rows: ");
 	scanf("%d",&n);
@@ -19,4 +19,5 @@ void main(){
 			}
 		}
 	}
+	return 0;
 }

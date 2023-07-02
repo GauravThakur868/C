@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main(){
+int main(){
 	int a,b;
 	char c;
 	printf("enter the choice");
@@ -22,4 +22,5 @@ void main(){
 		default:
 			printf("invalid operation");
 	}
+	return 0;
 }

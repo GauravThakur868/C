@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main(){
+int main(){
 	int array[100], position,c,a,value\;
 	prinf("enter number in array: \n");
 	scanf("%d",&n);
@@ -18,4 +18,5 @@ void main(){
 	for (c=0;c<=n;c++){
 		printf("%d\n", array[c]);
 	}
+	return 0;
 }

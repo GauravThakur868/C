@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main(){
+int main(){
 	char a[100], b[100];
     int i, j = 0;
 
@@ -20,4 +20,5 @@ void main(){
         printf("strings are equal\n");
     else
         printf("strings are not equal\n");
+    return 0;
 }

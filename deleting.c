@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main(){
+int main(){
     int position,a,n;
 	printf("enter");
 	for(int i=0;i<n;i++){
@@ -13,4 +13,5 @@ void main(){
 	for(int i=0;i<n;i++){
 		printf("%d",a[i]);
 	}
+	return 0;
 }

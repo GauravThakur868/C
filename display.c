@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main(){
+int main(){
 	int size,i;
 	scanf("%d",&size);
 	int a[size],b[size];
@@ -16,4 +16,5 @@ void main(){
 	for (i=0;i<size;i++){
 		printf("%d",b[i]);
 	}
+	return 0;
 }

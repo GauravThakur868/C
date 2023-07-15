@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main(){
+int main(){
 	float a = 3.14;
 	int b = 15;
 	float c = 2*a*b;
@@ -10,4 +10,5 @@ void main(){
 	printf("%d",e);
 	char f ='s';
 	printf("%d",f); 
+	return 0;
 }

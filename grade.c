@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main(){
+int main(){
 	int a,b,c,d,e;
 	scanf("%d \n %d \n %d \n %d \n% d",&a,&b,&c,&d,&e);
 	int x = (a+b+c+d+e)/5;

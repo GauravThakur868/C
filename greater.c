@@ -13,4 +13,5 @@ int main(){
 	else{
 		printf("%d is greatest",c);
 	}
+	return 0;
 }

@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main(){
+int main(){
 	int array[100], position,c=0,a,value,n;
 	printf("enter number in array: \n");
 	scanf("%d",&n);

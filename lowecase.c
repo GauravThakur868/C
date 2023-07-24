@@ -11,4 +11,5 @@ int main(){
         }
     }
     printf("lowercase: %s\n", a);
+    return 0;
 }

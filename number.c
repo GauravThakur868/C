@@ -1,6 +1,6 @@
 #include<stdio.h>
 void number();
-void main(){
+int main(){
 	number();
 }
 void number(){

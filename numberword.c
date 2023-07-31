@@ -4,6 +4,7 @@ int main(){
 	int a;
 	scanf("%d",&a);
 	num(a);
+	return 0;
 }
 int num(int n1){
 	if (n1==1){

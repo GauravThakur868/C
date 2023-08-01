@@ -1,6 +1,6 @@
 #include <string.h>
 
-void main() {
+int main() {
     char a[100];
     int i, len;
     int is_palindrome = 1;

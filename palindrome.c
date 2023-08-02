@@ -22,4 +22,5 @@ int main() {
     } else {
         printf("%s is not a palindrome.", a);
     }
+    return 0;
 }

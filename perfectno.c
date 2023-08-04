@@ -17,5 +17,5 @@ int main(){
 	else{
 		printf("not perfect");
 	}
-	
+	return 0;
 }

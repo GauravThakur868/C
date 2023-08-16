@@ -8,5 +8,5 @@ int main(){
 		a /= 10;
 	}
 	 printf("reverse is %d",b);
-	
+	return 0;
 }

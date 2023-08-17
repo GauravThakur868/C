@@ -1,5 +1,5 @@
 # include <stdio.h>
-void main(){
+int main(){
 	int a[10] = {2,6,4,8,10,12,89,68,45,37};
 	int i,loc=-1,key;
 	printf("enter int value to search in array: ");

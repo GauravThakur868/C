@@ -16,4 +16,5 @@ int main(){
 	else{
 		printf("element not found");
 	}
+	return 0;
 }

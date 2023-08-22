@@ -6,4 +6,5 @@ int main(){
 	printf("%d\n",sizeof(a));
 	printf("%d\n",sizeof(b));
 	printf("%d",sizeof(c));
+	return 0;
 }

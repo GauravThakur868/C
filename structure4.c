@@ -3,7 +3,7 @@ struct person(){
 	char name[20];
 	int age;
 }
-void main(){
+int main(){
 	struct person p;
 	scanf("%s",&p.name);
 	scanf("%d",&p.age);

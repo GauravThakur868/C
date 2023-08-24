@@ -7,4 +7,5 @@ int main(){
 	struct person p;
 	scanf("%s",&p.name);
 	scanf("%d",&p.age);
+	return 0;
 }

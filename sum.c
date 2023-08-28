@@ -9,4 +9,5 @@ int main(){
 		a++;
 	}
 	printf("%d",b);
+	return 0;
 }

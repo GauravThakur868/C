@@ -9,4 +9,5 @@ int main(){
 		a += x[i];
 	}
 	printf("%d",a);
+	return 0;
 }

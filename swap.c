@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main(){
+int main(){
 	int a,b,c=0;
 	printf("enter vlaue of a: ");
 	scanf("%d",&a);

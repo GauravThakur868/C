@@ -10,4 +10,5 @@ int main(){
 	b = c;
 	printf("a = %d ",a);
 	printf("b = %d ",b);
+	return 0;
 }

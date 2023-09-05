@@ -17,4 +17,5 @@ int main(){
 			printf("%d ",a[j][i]);
 		}printf("\n");
 	}
+	return 0;
 }

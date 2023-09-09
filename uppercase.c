@@ -14,4 +14,5 @@ char a[100];
       i++;
    }
    printf("Uppercase: %s", a);
+   return 0;
 }

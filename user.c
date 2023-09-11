@@ -8,4 +8,5 @@ int main(){
 	for(i=0;i<5;i++){
 		printf("%d",x[i]);
 	} 
+	return 0;
 }
